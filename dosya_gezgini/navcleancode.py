@@ -3,7 +3,6 @@ import time
 from simple_term_menu import TerminalMenu
 from pathlib import Path
 import folder_manager
-from InquirerPy import inquirer
 
 def absolute_folder_paths(directory):
     import glob
